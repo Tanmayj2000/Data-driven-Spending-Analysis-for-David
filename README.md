@@ -21,7 +21,9 @@ This question focuses on understanding the distribution of David's spending acro
 # Repository Contents -
 The repository contains the following file:
 
-data.csv: This file contains the raw data of David's monthly spending. It includes columns for the date of each transaction, the spending category, and the corresponding amount spent.
+Spending Raw data.csv: This file contains the raw data of David's monthly spending. It includes columns for the date of each transaction, the spending category, and the corresponding amount spent.
+
+Spending Analysis.csv: This file contains the findings and insights from a spending analysis conducted manually on Google Spreadsheet. 
 
 README.md: This readme file provides an overview of the project, its purpose, and instructions for analyzing the data in data.csv.
 
